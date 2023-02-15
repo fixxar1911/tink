@@ -21,7 +21,7 @@ require (
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
 	github.com/packethost/pkg v0.0.0-20200903155310-0433e0605550
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/rubenv/sql-migrate v0.0.0-20200616145509-8d140a17f351
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
