@@ -28,7 +28,7 @@ require (
 	github.com/spf13/viper v1.8.1
 	github.com/stretchr/testify v1.7.0
 	github.com/testcontainers/testcontainers-go v0.11.1
-	go.mongodb.org/mongo-driver v1.1.2 // indirect
+	go.mongodb.org/mongo-driver v1.5.1 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.22.0
 	google.golang.org/genproto v0.0.0-20210921142501-181ce0d877f6
 	google.golang.org/grpc v1.41.0-dev.0.20210907181116-2f3355d2244e
