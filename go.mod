@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/bufbuild/buf v1.0.0-rc2
 	github.com/docker/distribution v2.7.1+incompatible
-	github.com/docker/docker v20.10.7+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/equinix-labs/otel-init-go v0.0.1
 	github.com/go-openapi/strfmt v0.19.3 // indirect
 	github.com/golang/protobuf v1.5.2
